@@ -13,7 +13,7 @@
     
 
     // asumsi ketinggian yang termasuk kategri banjir =10 cm
-    $banjir = 100;
+    $banjir = 10;
     $tinggi_tiang = 20;
     // ketinggian banjir saat ini: 
     $ketinggian = $tinggi_tiang - $jarak;
